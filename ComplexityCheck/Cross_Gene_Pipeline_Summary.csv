@@ -1,0 +1,4 @@
+Gene,Total_Mutations,Exonic_Mutations,Intronic_Mutations,cDNA_Mapped,Protein_Mapped
+TP53,350,327,23,327,327
+BRCA1,30,28,2,28,28
+KRAS,8,8,0,8,2
