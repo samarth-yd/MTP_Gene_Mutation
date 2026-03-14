@@ -1,0 +1,9 @@
+Mutation,Genomic_Position,Region,cDNA_Position,Protein_Position
+C>A,25380184,exon_4,782,
+C>A,25398285,exon_5,1022,
+C>A,25398284,exon_5,1021,
+C>A,25398284,exon_5,1021,
+C>T,25398284,exon_5,1021,
+C>A,25398284,exon_5,1021,
+G>T,25362626,exon_1,262,66.0
+CTTTGT>-,25362744,exon_1,380,106.0

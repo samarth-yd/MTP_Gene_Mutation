@@ -1,0 +1,3 @@
+Mutation,Genomic_Position,Region,cDNA_Position,Protein_Position,Mutation_Type,Domain
+G>T,25362626,exon_1,262,66,Missense,Switch_II
+CTTTGT>-,25362744,exon_1,380,106,Frameshift,Other
