@@ -1,0 +1,5 @@
+Domain,Residue_Range,Num_Mutations,Density,Remarks
+Transactivation,1–61,5,0.082,
+DNA_binding,102–292,290,1.5183,High clustering
+Tetramerization,324–355,15,0.4688,
+Other,Rest,17,0.156,
